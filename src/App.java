@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Ввод двух целых чисел a и b
+        
         System.out.print("Введите число a: ");
         int a = scanner.nextInt();
         System.out.print("Введите число b: ");
@@ -22,7 +22,7 @@ public class App {
             System.out.println(a + " = " + b);
         }
 
-        // Выполнение операций и вывод результатов
+       
         System.out.println("Сложение: " + (a + b));
         System.out.println("Вычитание: " + (a - b));
         // Проверка деления на ноль
