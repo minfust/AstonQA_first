@@ -5,6 +5,9 @@
 - совершает с этими числами операции сложения, вычитания, деления и умножения и результат выводит в консоль.
 
 ![image](https://github.com/minfust/AstonQA_first/assets/59063051/4cac45c7-ef89-4dd0-b327-68fd52f94d4d)
-![image](https://github.com/minfust/AstonQA_first/assets/59063051/f8a949e4-d131-4af1-928c-882fa4516795)
-![image](https://github.com/minfust/AstonQA_first/assets/59063051/b417b07c-7be5-4145-913c-b2040b0d3ac2)
+![image](https://github.com/minfust/AstonQA_first/assets/59063051/72fb3bb4-2de1-48ce-a7fd-83a558f449dd)
+![image](https://github.com/minfust/AstonQA_first/assets/59063051/b10deb88-6f79-4299-ac4d-cc4d82320497)
+
+![image](https://github.com/minfust/AstonQA_first/assets/59063051/7deb4c8d-739f-4264-b9c0-e11ba6538762)
+
 
