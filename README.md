@@ -6,4 +6,5 @@
 
 ![image](https://github.com/minfust/AstonQA_first/assets/59063051/4cac45c7-ef89-4dd0-b327-68fd52f94d4d)
 ![image](https://github.com/minfust/AstonQA_first/assets/59063051/f8a949e4-d131-4af1-928c-882fa4516795)
-![image](https://github.com/minfust/AstonQA_first/assets/59063051/05f124f1-ddd0-45ee-aeff-db875d10ad08)
+![image](https://github.com/minfust/AstonQA_first/assets/59063051/b417b07c-7be5-4145-913c-b2040b0d3ac2)
+
